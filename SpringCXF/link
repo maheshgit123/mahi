@@ -1,0 +1,1 @@
+<project folder upto src(empty project for creating rest client)> http://localhost:8080/SpringCXF/services/HelloWorld?wsdl
